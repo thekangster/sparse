@@ -1,7 +1,3 @@
-# cse101 pa4
-
-**The following are the files required for programming assignment #4**
-
 # files and how they work
 
 `Sparce.c`: main program that reads an input file, initializes and builds the matrices A and B then calculates and prints the following matrices to the output file: A, B, (1.5)A, A+B, A+A, B-A, A-A, transpose(A), AB, BB.
